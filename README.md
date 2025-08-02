@@ -2,8 +2,6 @@
 
 A modern, responsive Weather App built using **ReactJS** that fetches real-time weather data for any location. Enter a city name and get the current temperature, humidity, wind speed, and weather conditions instantly.
 
-![Weather App Screenshot](https://raw.githubusercontent.com/mohammedjambu/Weather-App/main/public/weather-preview.png)
-
 ## 🚀 Features
 
 - 🔍 Search weather by city name
